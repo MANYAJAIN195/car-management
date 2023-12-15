@@ -3,10 +3,11 @@
 I have developed a mini-project using the GoFr framework to build a simple HTTP API for a Car Garage Management service. The API includes CRUD operations for managing entries of cars in the garage and integrates with a MySQL database using docker for persistent data storage. The key functionalities implemented include adding a new entry to the database when a car enters the garage (capturing owner name, car number, and status), retrieving the list of currently parked cars, fetching details of a specific car based on its number, updating the entry when a car undergoes repair with relevant status parameters, and finally, deleting the entry from the database when the car leaves the garage using its number. Furthermore, activity diagrams and UML diagrams are also created to provide a visual representation of the system's interactions and structure, understanding of the project architecture.
 
 ### UML CLASS DIAGRAM
-![Alt text](uml.png)
+![uml](https://github.com/MANYAJAIN195/car-management/assets/71972339/f6e6c940-7609-45d7-aa6c-66a288bfa9dd)
+
 
 ### UML ACTIVITY DIAGRAM
-![Alt text](<activity diagram.png>)
+![activity diagram](https://github.com/MANYAJAIN195/car-management/assets/71972339/0fb76b4c-7c51-4ece-886f-cc3d3fed6075)
 
 ### Commands to run the program
 
