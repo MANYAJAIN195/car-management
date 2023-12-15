@@ -7,14 +7,8 @@ I have developed a mini-project using the GoFr framework to build a simple HTTP 
 - MySQL Database
 
 ## Project Structure
-/car-management
-|-- main.go
-|-- main_test.go
-|-- README.md
-|-- go.mod
-|-- go.sum
-|-- /configs
-| |-- .env
+![project structure](https://github.com/MANYAJAIN195/car-management/assets/71972339/c2ae5c30-dcb3-4515-b969-63b32a146903)
+
 
 - **main.go**: Entry point of the application and Implementation of the HTTP handlers.
 - **main_test.go**: Unit tests for the main functionalities.
@@ -60,9 +54,9 @@ Note: Access the server at port 8080 which can be modified in .env file.
 ## Postman Collection
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/31394230-227e3a50-cd31-4313-a608-9fdaa2b4f647?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D31394230-227e3a50-cd31-4313-a608-9fdaa2b4f647%26entityType%3Dcollection%26workspaceId%3D593f0adc-3224-4644-ad3e-caec4d690d43)
 
-### UML CLASS DIAGRAM
+## UML CLASS DIAGRAM
 ![uml](https://github.com/MANYAJAIN195/car-management/assets/71972339/f6e6c940-7609-45d7-aa6c-66a288bfa9dd)
 
 
-### UML ACTIVITY DIAGRAM
+## UML ACTIVITY DIAGRAM
 ![activity diagram](https://github.com/MANYAJAIN195/car-management/assets/71972339/0fb76b4c-7c51-4ece-886f-cc3d3fed6075)
